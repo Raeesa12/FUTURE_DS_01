@@ -10,8 +10,8 @@ This project is part of my **Data Science & Analytics Internship** at **Future I
 * **Causality:** Proved a direct inverse relationship between unit price and quantity sold, indicating high customer price sensitivity.
 
 ## Tools Used
-* **Python** (Pandas, Matplotlib, Seaborn, Scipy) [cite: 43]
-* **Jupyter Notebook** for end-to-end analysis [cite: 43]
+* **Python** (Pandas, Matplotlib, Seaborn, Scipy) 
+* **Jupyter Notebook** for end-to-end analysis 
 
 ## Deliverables
 * Cleaned and standardized dataset (`data_cleaned.csv`). 
