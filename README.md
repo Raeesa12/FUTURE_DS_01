@@ -15,4 +15,7 @@ This project is part of my **Data Science & Analytics Internship** at **Future I
 
 ## Deliverables
 * Cleaned and standardized dataset (`data_cleaned.csv`). 
-* Analysis report with actionable business recommendations. 
+* Analysis report with actionable business recommendations.
+
+## PowerBI Dashboard 
+Link to visualisations, insights and recommendations dashboard/report : https://app.powerbi.com/view?r=eyJrIjoiYmVkOWMyOTQtNTQ0Ny00YzY1LWFlNGQtODM0NzMwYWI4NWI5IiwidCI6IjRiMWI5MDhjLTU1ODItNDM3Ny1iYTA3LWEzNmQ2NWUzNDkzNCIsImMiOjh9&pageName=25780953b4e6ae07e7d8
