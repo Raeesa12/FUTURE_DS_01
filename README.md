@@ -11,7 +11,8 @@ This project is part of my **Data Science & Analytics Internship** at **Future I
 
 ## Tools Used
 * **Python** (Pandas, Matplotlib, Seaborn, Scipy) 
-* **Jupyter Notebook** for end-to-end analysis 
+* **Jupyter Notebook** for end-to-end analysis
+* **Power BI** for dashboard
 
 ## Deliverables
 * Cleaned and standardized dataset (`data_cleaned.csv`). 
